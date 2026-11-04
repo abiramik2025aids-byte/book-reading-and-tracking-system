@@ -4,3 +4,4 @@ replay_pid*.log
 *.class
 target/
 bin/
+.env
